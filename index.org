@@ -11,7 +11,7 @@
 * My Career
 Harriet Sands
 *  
-#+ATTR_HTML: :style border:none; box-shadow:none; max-width:100%
+#+ATTR_HTML: :style border:none; box-shadow:none; max-width:150%
 [[./img/career_map2.png]]
 # :PROPERTIES:
 # :reveal_background: ./img/career_map2.png
