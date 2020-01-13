@@ -72,7 +72,7 @@ MDataGov
 #+ATTR_REVEAL: :frag (appear)
 Data Science Accelerator
 #+ATTR_REVEAL: :frag (appear)
-DSC courses:
+*DSC courses*:
 #+ATTR_REVEAL: :frag (appear)
 - Fundamentals of Data Science
 #+ATTR_REVEAL: :frag (appear)
