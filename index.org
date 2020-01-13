@@ -53,12 +53,14 @@ A new generation of tools and technologies are used to exploit the growth and
 availability of these new data sources and provide rich informed measurement and analyses on the economy, the global environment and wider society.
 #+END_NOTES
 *  
-:PROPERTIES:
-:reveal_background: ./img/open_prescribing_map_annotated.png
-:reveal_background_size: 100%
-:reveal_background_position: auto
-:reveal_background_trans: slide
-:END:
+#+ATTR_HTML: :style border:none; box-shadow:none; max-width:100%; max-height:100%; text-align:center
+[[./img/open_prescribing_map_annotated.png]]
+# :PROPERTIES:
+# :reveal_background: ./img/open_prescribing_map_annotated.png
+# :reveal_background_size: 100%
+# :reveal_background_position: auto
+# :reveal_background_trans: slide
+# :END:
 *   
 #+REVEAL_HTML: <h4>For a full list of projects see our <a href="https://datasciencecampus.ons.gov.uk/">website:</a></h4>
 #+ATTR_HTML: :width 70% :height 70% :style border:none;
