@@ -70,3 +70,49 @@ availability of these new data sources and provide rich informed measurement and
   - Fundamentals of Data Science
   - The Art of the Possible
 #+REVEAL_HTML: </div>
+*  
+    :PROPERTIES:
+    :reveal_background: ./img/gds-team-flickr.png
+    :reveal_background_size: 100%
+    :reveal_background_position: auto
+    :END:
+# #+REVEAL_HTML: <h2 style="color:white; font-family:'Helvetica Neue'; text-align:left">Government Data Science Community</h2>
+#+REVEAL_HTML: <h2 style="color:white; text-align:left; text-transform:capitalize">Government Data Science Community</h2>
+# #+REVEAL_HTML: <h3 style="color:white; font-family:'Helvetica Neue'; text-align:left; text-transform:capitalize">Community of practice</h3>
+#+REVEAL_HTML: <br>
+#+REVEAL_HTML: <h3 style="color:white; text-align:left; text-transform:uppercase">Community of practice</h3>
+#+REVEAL_HTML: <p style="color:white; text-align:left;"">groups of people who share a concern, a set of problems, or a passion about a topic, and who deepen their knowledge and expertise in this area by interacting on an ongoing basis</p>
+#+REVEAL_HTML: <p style="color:white; text-align:center;">- Wenger et el 2003</p>
+* 
+#+ATTR_HTML: :style border:none; box-shadow:none; max-width:80%; max-height:80%; text-align:center
+[[https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FENKs_2cUcAEDoE0.jpg]]
+* 
+    :PROPERTIES:
+    :reveal_background: ./img/tube-background.png
+    :reveal_background_size: 100%
+    :reveal_background_position: auto
+    :END:
+#+REVEAL_HTML: <h2 style="color:white; text-align:left; text-transform:capitalize">“Citizens rely more than ever on cross-agency coordination for good government”</h2>
+#+REVEAL_HTML: <p style="color:white; text-align:left; text-transform:capitalize">Snyder, W., Wenger, E. and de Sousa Briggs, X., 2004. Communities of practice in government: Leveraging knowledge for performance. PUBLIC MANAGER., 32(4), pp.17-22.</p>
+* 
+    :PROPERTIES:
+    :reveal_background: ./img/gds-team.jpg
+    :reveal_background_size: 100%
+    :reveal_background_position: auto
+    :END:
+#+REVEAL_HTML: <h1 style="color:white; text-align:left; text-transform:capitalize">People</h2>
+#+REVEAL_HTML: <h1 style="color:white; text-align:left; text-transform:capitalize">Programme</h2>
+#+REVEAL_HTML: <h1 style="color:white; text-align:left; text-transform:capitalize">Platforms</h2>
+#+REVEAL_HTML: <p style="color:white; text-align:left; text-transform:capitalize">Community Development Handbook</p>/
+
+*   
+    :PROPERTIES:
+    :reveal_background: #08ff92
+    :END:
+#+REVEAL_HTML: <h4 style="color:white; text-align:left; text-transform:capitalize">Get involved</h4>
+#+REVEAL_HTML: <h4 style="text-align:left; text-transform:capitalize">Coffee and Coding</h4>
+#+REVEAL_HTML: <h4 style="text-align:left; text-transform:capitalize">govdatascience slack</h4>
+#+REVEAL_HTML: <h4 style="text-align:left; text-transform:capitalize">Community meet up</h4>
+#+REVEAL_HTML: <h4 style="text-align:left; text-transform:capitalize">Data Science Accelerator – next cohort early 2020</h4>
+#+REVEAL_HTML: <h4 style="text-align:left; text-transform:capitalize">RAP Champions</h4>
+#+REVEAL_HTML: <h4 style="text-align:left; text-transform:capitalize">Gov Data Science Conference</h4>
