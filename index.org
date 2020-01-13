@@ -13,11 +13,6 @@ Harriet Sands
 *  
 #+ATTR_HTML: :style border:none; box-shadow:none; max-width:100%; max-height:100%; text-align:center
 [[./img/career-map-resized.png]]
-# :PROPERTIES:
-# :reveal_background: ./img/career_map2.png
-# :reveal_background_size: 100%
-# :reveal_background_position: auto
-# :END:
 
 #+BEGIN_NOTES
 #+END_NOTES
@@ -55,37 +50,22 @@ availability of these new data sources and provide rich informed measurement and
 *  
 #+ATTR_HTML: :style border:none; box-shadow:none; max-width:100%; max-height:100%; text-align:center
 [[./img/open_prescribing_map_annotated.png]]
-# :PROPERTIES:
-# :reveal_background: ./img/open_prescribing_map_annotated.png
-# :reveal_background_size: 100%
-# :reveal_background_position: auto
-# :reveal_background_trans: slide
-# :END:
+
 *   
 #+REVEAL_HTML: <h4>For a full list of projects see our <a href="https://datasciencecampus.ons.gov.uk/">website:</a></h4>
 #+ATTR_HTML: :width 70% :height 70% :style border:none;
 [[./img/dsc-projects.png]]
 *  
 #+REVEAL_HTML: <h2>Opportunities for <span style="color: #E5007C;">you</span><br> at the <span style="color: #004266;">Data Science Campus</span></h2>
-# #+ATTR_REVEAL: :frag (appear)
-# MDataGov
-# #+ATTR_REVEAL: :frag (appear)
-# Data Science Accelerator
-# #+ATTR_REVEAL: :frag (appear)
-# *DSC courses*:
-# #+ATTR_REVEAL: :frag (appear)
-# - Fundamentals of Data Science
-# #+ATTR_REVEAL: :frag (appear)
-# - The Art of the Possible
-# | MDataGov                 | DSC courses:                   |
-# | Data Science Accelerator | - Fundamentals of Data Science |
-# |                          | - The Art of the Possible      |
-#+REVEAL_HTML:<br>
+#+REVEAL_HTML: <br>
+#+ATTR_REVEAL: :frag (appear)
 #+REVEAL_HTML: <div class="column" style="float:left; width:50%; text-align:left">
+#+ATTR_REVEAL: :frag (appear)
 - MDataGov
 - Data Science Accelerator
 #+REVEAL_HTML: </div>
 #+REVEAL_HTML: <div class="column" style="float:right; width:50%; text-align:left">
+#+ATTR_REVEAL: :frag (appear)
 - DSC courses:
   - Fundamentals of Data Science
   - The Art of the Possible
