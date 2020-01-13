@@ -21,11 +21,11 @@ Harriet Sands
 #+END_NOTES
 
 * 
-#+ATTR_HTML: :width 20% :height 20% :border none
+#+ATTR_HTML: :width 20% :height 20% :style border:none; box-shadow:none
 [[./img/pydata.png]]
-#+ATTR_HTML: :width 20% :height 20%
+#+ATTR_HTML: :width 20% :height 20% :style border:none; box-shadow:none
 [[./img/hm-gov-logo.png]]
-#+ATTR_HTML: :width 30% :height 30%
+#+ATTR_HTML: :width 30% :height 30% :style border:none; box-shadow:none
 [[./img/datakind.png]]
 
 * 
@@ -59,9 +59,9 @@ availability of these new data sources and provide rich informed measurement and
 :END:
 *   
 #+REVEAL_HTML: <h4>For a full list of projects see our <a href="https://datasciencecampus.ons.gov.uk/">website:</a></h4>
-#+ATTR_HTML: :width 70% :height 70% :border none
+#+ATTR_HTML: :width 70% :height 70% :style border:none;
 [[./img/dsc-projects.png]]
-*
+*  
 #+REVEAL_HTML: <h2>Opportunities for <span style="color: #E5007C;">you</span><br> @ the <span style="color: #004266;">Data Science Campus</span></h2>
 #+ATTR_REVEAL: :frag (appear)
 MDataGov
