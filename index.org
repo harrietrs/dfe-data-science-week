@@ -56,7 +56,7 @@ availability of these new data sources and provide rich informed measurement and
 :PROPERTIES:
 :reveal_background: ./img/open_prescribing_map_annotated.png
 :reveal_background_size: 100%
-:reveal_background_position: cover
+:reveal_background_position: auto
 :reveal_background_trans: slide
 :END:
 *   
