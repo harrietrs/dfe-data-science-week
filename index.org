@@ -10,12 +10,14 @@
 #+Author: Harriet Sands & Hillary Juma
 * My Career
 Harriet Sands
-* 
-:PROPERTIES:
-:reveal_background: ./img/career_map2.png
-:reveal_background_size: 100%
-:reveal_background_position: auto
-:END:
+*  
+#+ATTR_HTML: :style border:none; box-shadow:none; max-width:100%
+[[./img/career_map2.png]]
+# :PROPERTIES:
+# :reveal_background: ./img/career_map2.png
+# :reveal_background_size: 100%
+# :reveal_background_position: auto
+# :END:
 
 #+BEGIN_NOTES
 #+END_NOTES
