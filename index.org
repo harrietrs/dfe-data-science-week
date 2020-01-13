@@ -14,7 +14,7 @@ Harriet Sands
 :PROPERTIES:
 :reveal_background: ./img/career_map2.png
 :reveal_background_size: 100%
-:reveal_background_position: cover
+:reveal_background_position: auto
 :END:
 
 #+BEGIN_NOTES
