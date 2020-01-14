@@ -1,11 +1,10 @@
 #+OPTIONS: num:nil toc:nil email:nil timestamp:nil reveal_history:t
 #+REVEAL_THEME: white
 #+REVEAL_PLUGINS: (highlight notes)
-#+REVEAL_TITLE_SLIDE: <h1 style:"font-family:'Helvetica Neue'">%t</h1><h4>%s</h4><p>%a</p>
+#+REVEAL_TITLE_SLIDE: <h1>%t</h1><h4>%s</h4><p>%a</p>
 #+REVEAL_DEFAULT_SLIDE_BACKGROUND: ./img/dsc_logo.png
 #+REVEAL_DEFAULT_SLIDE_BACKGROUND_SIZE: 15%
 #+REVEAL_DEFAULT_SLIDE_BACKGROUND_POSITION: left 10px bottom 10px
-#+REVEAL_HTML: <h1 style:"font-family:'Helvetica Neue'></h1>
 #+TITLE: It takes a village
 #+SUBTITLE: Data Science Campus @ONS
 #+Author: Harriet Sands & Hillary Juma
