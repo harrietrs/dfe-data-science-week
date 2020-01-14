@@ -1,10 +1,11 @@
 #+OPTIONS: num:nil toc:nil email:nil timestamp:nil reveal_history:t
 #+REVEAL_THEME: white
 #+REVEAL_PLUGINS: (highlight notes)
-#+REVEAL_TITLE_SLIDE: <h1>%t</h1><h4>%s</h4><p>%a</p>
+#+REVEAL_TITLE_SLIDE: <h1 style:"font-family:'Helvetica Neue'">%t</h1><h4>%s</h4><p>%a</p>
 #+REVEAL_DEFAULT_SLIDE_BACKGROUND: ./img/dsc_logo.png
 #+REVEAL_DEFAULT_SLIDE_BACKGROUND_SIZE: 15%
 #+REVEAL_DEFAULT_SLIDE_BACKGROUND_POSITION: left 10px bottom 10px
+#+REVEAL_HTML: <h1 style:"font-family:'Helvetica Neue'></h1>
 #+TITLE: It takes a village
 #+SUBTITLE: Data Science Campus @ONS
 #+Author: Harriet Sands & Hillary Juma
@@ -80,7 +81,7 @@ availability of these new data sources and provide rich informed measurement and
 #+REVEAL_HTML: <h2 style="color:white; text-align:left; text-transform:capitalize">Government Data Science Community</h2>
 # #+REVEAL_HTML: <h3 style="color:white; font-family:'Helvetica Neue'; text-align:left; text-transform:capitalize">Community of practice</h3>
 #+REVEAL_HTML: <br>
-#+REVEAL_HTML: <h3 style="color:white; text-align:left; text-transform:uppercase">Community of practice</h3>
+#+REVEAL_HTML: <h3 style="color:white; text-align:left; text-transform:capitalize">Community of practice</h3>
 #+REVEAL_HTML: <p style="color:white; text-align:left;"">groups of people who share a concern, a set of problems, or a passion about a topic, and who deepen their knowledge and expertise in this area by interacting on an ongoing basis</p>
 #+REVEAL_HTML: <p style="color:white; text-align:center;">- Wenger et el 2003</p>
 * 
@@ -107,12 +108,12 @@ availability of these new data sources and provide rich informed measurement and
 
 *   
     :PROPERTIES:
-    :reveal_background: #08ff92
+    :reveal_background: #16A07C
     :END:
 #+REVEAL_HTML: <h4 style="color:white; text-align:left; text-transform:capitalize">Get involved</h4>
-#+REVEAL_HTML: <h4 style="text-align:left; text-transform:capitalize">Coffee and Coding</h4>
-#+REVEAL_HTML: <h4 style="text-align:left; text-transform:capitalize">govdatascience slack</h4>
-#+REVEAL_HTML: <h4 style="text-align:left; text-transform:capitalize">Community meet up</h4>
-#+REVEAL_HTML: <h4 style="text-align:left; text-transform:capitalize">Data Science Accelerator – next cohort early 2020</h4>
-#+REVEAL_HTML: <h4 style="text-align:left; text-transform:capitalize">RAP Champions</h4>
-#+REVEAL_HTML: <h4 style="text-align:left; text-transform:capitalize">Gov Data Science Conference</h4>
+#+REVEAL_HTML: <h4 style="color:black; text-align:left; text-transform:capitalize">Coffee and Coding</h4>
+#+REVEAL_HTML: <h4 style="color:black; text-align:left; text-transform:capitalize">govdatascience slack</h4>
+#+REVEAL_HTML: <h4 style="color:black; text-align:left; text-transform:capitalize">Community meet up</h4>
+#+REVEAL_HTML: <h4 style="color:black; text-align:left; text-transform:capitalize">Data Science Accelerator – next cohort early 2020</h4>
+#+REVEAL_HTML: <h4 style="color:black; text-align:left; text-transform:capitalize">RAP Champions</h4>
+#+REVEAL_HTML: <h4 style="color:black; text-align:left; text-transform:capitalize">Gov Data Science Conference</h4>
