@@ -1,4 +1,4 @@
-#+OPTIONS: num:nil toc:nil email:nil timestamp:nil reveal_history:t
+#+OPTIONS: toc:nil email:nil timestamp:nil reveal_history:t
 #+REVEAL_THEME: white
 #+REVEAL_PLUGINS: (highlight notes)
 #+REVEAL_TITLE_SLIDE: <h1>%t</h1><h4>%s</h4><p>%a</p>
@@ -9,8 +9,14 @@
 #+SUBTITLE: Data Science Campus @ONS
 #+Author: Harriet Sands & Hillary Juma
 * My Career
+:PROPERTIES:
+:CUSTOM_ID: my_career_1
+:END:
 Harriet Sands
-*  
+* 
+:PROPERTIES:
+:CUSTOM_ID: my_career_2
+:END:
 #+ATTR_HTML: :style border:none; box-shadow:none; max-width:100%; max-height:100%; text-align:center
 [[./img/career-map-resized.png]]
 
@@ -18,6 +24,9 @@ Harriet Sands
 #+END_NOTES
 
 * 
+:PROPERTIES:
+:CUSTOM_ID: communities
+:END:
 #+ATTR_HTML: :width 20% :height 20% :style border:none; box-shadow:none
 [[./img/pydata.png]]
 #+ATTR_HTML: :width 20% :height 20% :style border:none; box-shadow:none
@@ -26,6 +35,9 @@ Harriet Sands
 [[./img/datakind.png]]
 
 * 
+:PROPERTIES:
+:CUSTOM_ID: dsc_at_ons
+:END:
 #+REVEAL_HTML: <h2>What <span style="color: #E5007C;">we</span> do at the ONS</h2>
 #+ATTR_REVEAL: :frag (appear)
 We apply data science
@@ -33,28 +45,23 @@ We apply data science
 and build skills
 #+ATTR_REVEAL: :frag (appear)
 for public good
-#+BEGIN_NOTES
-We work at the frontier of data science and AI:
-- building skills and applying tools, methods and practices – to create new understanding and improve decision-making for public good.
-
-We define data science as:
-- Applying the tools, methods and practices of the digital and data age to create new understanding and improve decision-making.
-
-The goals of ONS’s Data Science Campus are:
-- to investigate the use of new data sources, including administrative data and
-  big data for public good
-- to help build data science capability for the benefit of the UK
-A new generation of tools and technologies are used to exploit the growth and
-availability of these new data sources and provide rich informed measurement and analyses on the economy, the global environment and wider society.
-#+END_NOTES
-*  
+* 
+:PROPERTIES:
+:CUSTOM_ID: project_example
+:END:
 #+ATTR_HTML: :style border:none; box-shadow:none; max-width:100%; max-height:100%; text-align:center
 [[./img/shipping-map.png]]
-*
+* 
+:PROPERTIES:
+:CUSTOM_ID: project_list
+:END:
 #+REVEAL_HTML: <h4>For a full list of projects see our <a href="https://datasciencecampus.ons.gov.uk/">website:</a></h4>
 #+ATTR_HTML: :width 70% :height 70% :style border:none;
 [[./img/dsc-projects.png]]
-*  
+* 
+:PROPERTIES:
+:CUSTOM_ID: ons_opportunities
+:END:
 #+REVEAL_HTML: <h2>Opportunities for <span style="color: #E5007C;">you</span><br> at the <span style="color: #004266;">Data Science Campus</span></h2>
 #+REVEAL_HTML: <br>
 #+ATTR_REVEAL: :frag (appear)
@@ -74,16 +81,26 @@ availability of these new data sources and provide rich informed measurement and
 :reveal_background: ./img/gds-team-flickr.png
 :reveal_background_size: 100%
 :reveal_background_position: auto
+:CUSTOM_ID: gov_community
 :END:
 #+REVEAL_HTML: <h2 style="color:white;">Government Data Science Community</h2>
 
 ** Community of Practice
+:PROPERTIES:
+:CUSTOM_ID: community_of_practice
+:END:
 #+REVEAL_HTML: <p style="color:black;">"groups of people who share a concern, a set of problems, or a passion about a topic, and who deepen their knowledge and expertise in this area by interacting on an ongoing basis"</p>
 #+REVEAL_HTML: <p style="color:black;">- <cite>Wenger et el 2003</cite></p>
 ** 
+:PROPERTIES:
+:CUSTOM_ID: support_diagram
+:END:
 #+ATTR_HTML: :style border:none; box-shadow:none; max-width:80%; max-height:80%; text-align:center
 [[./img/community.jpeg]]
-** 
+**
+:PROPERTIES:
+:CUSTOM_ID: cross_agency_work
+:END:
 #+REVEAL_HTML: <h2 style="text-transform:capitalize">“Citizens rely more than ever on cross-agency coordination for good government”</h2>
 #+REVEAL_HTML: <p><cite>W., Wenger, E. and de Sousa Briggs, X., 2004. Communities of practice in government: Leveraging knowledge for performance. PUBLIC MANAGER., 32(4), pp.17-22.</cite></p>
 ** 
@@ -91,6 +108,7 @@ availability of these new data sources and provide rich informed measurement and
     :reveal_background: ./img/gds-team.jpg
     :reveal_background_size: 100%
     :reveal_background_position: auto
+    :CUSTOM_ID: community_dev_handbook
     :END:
 #+REVEAL_HTML: <h1 style="color:white; text-align:left;">People</h2>
 #+REVEAL_HTML: <h1 style="color:white; text-align:left;">Programme</h2>
@@ -99,6 +117,7 @@ availability of these new data sources and provide rich informed measurement and
 ** 
     :PROPERTIES:
     :reveal_background: #16A07C
+    :CUSTOM_ID: get_involved
     :END:
 #+REVEAL_HTML: <h4 style="color:white;">Get involved</h4>
 #+REVEAL_HTML: <h6 style="color:black; ">Coffee and Coding</h6>
